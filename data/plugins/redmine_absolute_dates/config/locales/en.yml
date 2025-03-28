@@ -1,0 +1,4 @@
+en:
+  label_added_absolute_time_by: "%{author} added on %{age}"
+  label_updated_time: "It was last updated on %{value}"
+  label_updated_time_by: "%{author} updated on %{age}"
